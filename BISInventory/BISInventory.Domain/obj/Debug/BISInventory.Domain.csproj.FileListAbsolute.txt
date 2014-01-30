@@ -1,0 +1,13 @@
+c:\users\e81204\documents\visual studio 2012\Projects\BISInventory\BISInventory.Domain\bin\Debug\BISInventory.Domain.dll
+c:\users\e81204\documents\visual studio 2012\Projects\BISInventory\BISInventory.Domain\bin\Debug\BISInventory.Domain.pdb
+c:\users\e81204\documents\visual studio 2012\Projects\BISInventory\BISInventory.Domain\obj\Debug\BISInventory.Domain.csprojResolveAssemblyReference.cache
+c:\users\e81204\documents\visual studio 2012\Projects\BISInventory\BISInventory.Domain\obj\Debug\BISInventory.Domain.dll
+c:\users\e81204\documents\visual studio 2012\Projects\BISInventory\BISInventory.Domain\obj\Debug\BISInventory.Domain.pdb
+C:\Users\Beast\Documents\Visual Studio 2013\Projects\BISInventory\BISInventory.Domain\bin\Debug\BISInventory.Domain.dll
+C:\Users\Beast\Documents\Visual Studio 2013\Projects\BISInventory\BISInventory.Domain\bin\Debug\BISInventory.Domain.pdb
+C:\Users\Beast\Documents\Visual Studio 2013\Projects\BISInventory\BISInventory.Domain\obj\Debug\BISInventory.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Beast\Documents\Visual Studio 2013\Projects\BISInventory\BISInventory.Domain\obj\Debug\BISInventory.Domain.dll
+C:\Users\Beast\Documents\Visual Studio 2013\Projects\BISInventory\BISInventory.Domain\obj\Debug\BISInventory.Domain.pdb
+C:\Users\Beast\Documents\Visual Studio 2013\Projects\BISInventory\BISInventory.Domain\bin\Debug\BISInventory.Domain.dll.config
+C:\Users\Beast\Documents\Visual Studio 2013\Projects\BISInventory\BISInventory.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Beast\Documents\Visual Studio 2013\Projects\BISInventory\BISInventory.Domain\bin\Debug\EntityFramework.xml
